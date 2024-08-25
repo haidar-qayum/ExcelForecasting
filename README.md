@@ -1,5 +1,7 @@
 # Forecasting and Scenario Analysis Project
 
+![Scenario Analysis Table](ScenarioAnalysis.png)
+
 ## Overview
 
 This project utilizes Microsoft Excel to perform advanced forecasting and scenario analysis for a subscription-based business. The primary objectives are to predict future sales, assess upsell opportunities, and analyze the impact of pricing and demand changes on revenue. The project is divided into several key components:
@@ -76,8 +78,8 @@ This project utilizes Microsoft Excel to perform advanced forecasting and scenar
 
 ![Scenario Analysis Table](ScenarioAnalysis.png)
 
-<details>
-  <summary>**Insights**</summary>
+
+**Insights**
 
   <details>
     <summary>1. **Pricing Strategy Optimization**</summary>
@@ -113,8 +115,6 @@ This project utilizes Microsoft Excel to perform advanced forecasting and scenar
     The use of the Scenario Manager and Goal Seek has enabled robust strategic planning by allowing the business to test various hypothetical scenarios and their impact on key performance indicators (KPIs). This proactive approach ensures the business is well-prepared for different market conditions, enhancing agility and responsiveness.
   
   </details>
-
-</details>
 
 ## Conclusion
 
