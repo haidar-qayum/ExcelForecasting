@@ -74,47 +74,24 @@ This project utilizes Microsoft Excel to perform advanced forecasting and scenar
   - Created a sensitivity analysis table to explore how changes in price and demand elasticity affect sales.
   - Used heatmaps to visualize the impact of different scenarios on revenue.
 
-- **Visualization**: The table and heatmap below illustrate the elasticity of demand and the projected sales for various pricing strategies.
-
-![Scenario Analysis Table](ScenarioAnalysis.png)
-
+- **Visualization**: The table and heatmap at the start of this file illustrate the elasticity of demand and the projected sales for various pricing strategies.
 
 **Insights**
 
-  <details>
-    <summary>1. **Pricing Strategy Optimization**</summary>
-    
-    Using scenario analysis tools like the Data Table and Goal Seek, we were able to simulate different pricing scenarios and evaluate their impact on demand elasticity and total sales. This analysis revealed optimal price points that maximize revenue while maintaining customer retention, allowing the business to fine-tune its pricing strategy for different customer segments.
-  
-  </details>
+1. **Pricing Strategy Optimization**  
+   Using scenario analysis tools like the Data Table and Goal Seek, we were able to simulate different pricing scenarios and evaluate their impact on demand elasticity and total sales. This analysis revealed optimal price points that maximize revenue while maintaining customer retention, allowing the business to fine-tune its pricing strategy for different customer segments.
 
-  <details>
-    <summary>2. **Market Sensitivity Analysis**</summary>
-    
-    By employing FORECAST.ETS and confidence intervals (FORECAST.ETS.CONFINT), the project assessed market sensitivity to changes in external factors such as economic conditions or competitive actions. This analysis provided a range of potential outcomes, equipping decision-makers with a clearer understanding of risks and uncertainties.
-  
-  </details>
+2. **Market Sensitivity Analysis**  
+   By employing FORECAST.ETS and confidence intervals (FORECAST.ETS.CONFINT), the project assessed market sensitivity to changes in external factors such as economic conditions or competitive actions. This analysis provided a range of potential outcomes, equipping decision-makers with a clearer understanding of risks and uncertainties.
 
-  <details>
-    <summary>3. **Enhanced Upsell Strategies**</summary>
-    
-    The use of SUMIFS and COUNTIFS functions allowed for a detailed analysis of customer behavior and potential upsell opportunities across different subscription types. By identifying which segments are most responsive to upselling efforts, the business can target its marketing strategies more effectively, increasing the likelihood of converting basic or non-paying users into premium customers.
-  
-  </details>
+3. **Enhanced Upsell Strategies**  
+   The use of SUMIFS and COUNTIFS functions allowed for a detailed analysis of customer behavior and potential upsell opportunities across different subscription types. By identifying which segments are most responsive to upselling efforts, the business can target its marketing strategies more effectively, increasing the likelihood of converting basic or non-paying users into premium customers.
 
-  <details>
-    <summary>4. **Improved Forecast Accuracy**</summary>
-    
-    Leveraging advanced forecasting techniques, including the use of moving averages and exponential smoothing, has significantly improved the accuracy of sales forecasts. This, combined with visual tools like the Forecast Sheet, has allowed for better alignment of inventory and resource planning with anticipated demand, minimizing costs associated with overstocking or stockouts.
-  
-  </details>
+4. **Improved Forecast Accuracy**  
+   Leveraging advanced forecasting techniques, including the use of moving averages and exponential smoothing, has significantly improved the accuracy of sales forecasts. This, combined with visual tools like the Forecast Sheet, has allowed for better alignment of inventory and resource planning with anticipated demand, minimizing costs associated with overstocking or stockouts.
 
-  <details>
-    <summary>5. **Strategic Planning and Scenario Management**</summary>
-    
-    The use of the Scenario Manager and Goal Seek has enabled robust strategic planning by allowing the business to test various hypothetical scenarios and their impact on key performance indicators (KPIs). This proactive approach ensures the business is well-prepared for different market conditions, enhancing agility and responsiveness.
-  
-  </details>
+5. **Strategic Planning and Scenario Management**  
+   The use of the Scenario Manager and Goal Seek has enabled robust strategic planning by allowing the business to test various hypothetical scenarios and their impact on key performance indicators (KPIs). This proactive approach ensures the business is well-prepared for different market conditions, enhancing agility and responsiveness.
 
 ## Conclusion
 
